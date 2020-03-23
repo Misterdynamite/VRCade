@@ -1,0 +1,1350 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-03-24T12:10:56.366+13:00
+  initializedAtString: 2020-03-24T12:06:32.667+13:00
+  entries:
+  - path: Pacman\Assembly-CSharp.csproj
+    fullPath: D:\Unity\VRCade\Pacman\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: D:\Unity\VRCade\Pacman\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: D:\Unity\VRCade\Pacman\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\APIUpdater\project-dependencies.graph
+    fullPath: D:\Unity\VRCade\Pacman\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ArtifactDB
+    fullPath: D:\Unity\VRCade\Pacman\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\Artifacts\01\0130788032f0b9aca848fdcae230e0a1
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\01\0130788032f0b9aca848fdcae230e0a1
+    projectPath: Library\Artifacts\01\0130788032f0b9aca848fdcae230e0a1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\02\02a835f91d736ae02d297baa8e243f95
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\02\02a835f91d736ae02d297baa8e243f95
+    projectPath: Library\Artifacts\02\02a835f91d736ae02d297baa8e243f95
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\02\02b7616d60e1906fa372dc5497098138
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\02\02b7616d60e1906fa372dc5497098138
+    projectPath: Library\Artifacts\02\02b7616d60e1906fa372dc5497098138
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\05\05cab595c7b106b23c91b4d3f6a268b7
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\05\05cab595c7b106b23c91b4d3f6a268b7
+    projectPath: Library\Artifacts\05\05cab595c7b106b23c91b4d3f6a268b7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\0c\0cb4793f7925e8084e6a190b62cbfd57
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\0c\0cb4793f7925e8084e6a190b62cbfd57
+    projectPath: Library\Artifacts\0c\0cb4793f7925e8084e6a190b62cbfd57
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\10\10141590494460903cf3e497438a76e9
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\10\10141590494460903cf3e497438a76e9
+    projectPath: Library\Artifacts\10\10141590494460903cf3e497438a76e9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\1d\1db08cce8d78df776ec42f0fc0a5f02d
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\1d\1db08cce8d78df776ec42f0fc0a5f02d
+    projectPath: Library\Artifacts\1d\1db08cce8d78df776ec42f0fc0a5f02d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    projectPath: Library\Artifacts\20\20ad84b0601d461c152fb4d0ead6ec56
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\22\2214895a8aa493f3bbc5000f832d901a
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\22\2214895a8aa493f3bbc5000f832d901a
+    projectPath: Library\Artifacts\22\2214895a8aa493f3bbc5000f832d901a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\34\3412fbb2c30f056062e5a2e2bf417bd3
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\34\3412fbb2c30f056062e5a2e2bf417bd3
+    projectPath: Library\Artifacts\34\3412fbb2c30f056062e5a2e2bf417bd3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\38\3896e3407a42301b6170a0f37e5570f0
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\38\3896e3407a42301b6170a0f37e5570f0
+    projectPath: Library\Artifacts\38\3896e3407a42301b6170a0f37e5570f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\39\3908d8fdb7bae92c62115d123181f48b
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\39\3908d8fdb7bae92c62115d123181f48b
+    projectPath: Library\Artifacts\39\3908d8fdb7bae92c62115d123181f48b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\3f\3fd77b0447ce373b9951ee92425e3c55
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\3f\3fd77b0447ce373b9951ee92425e3c55
+    projectPath: Library\Artifacts\3f\3fd77b0447ce373b9951ee92425e3c55
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\42\42b3b21db5f65060971f61655b3e17d1
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\42\42b3b21db5f65060971f61655b3e17d1
+    projectPath: Library\Artifacts\42\42b3b21db5f65060971f61655b3e17d1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\43\43172c4837da6dcf06407b3b78593f25
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\43\43172c4837da6dcf06407b3b78593f25
+    projectPath: Library\Artifacts\43\43172c4837da6dcf06407b3b78593f25
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\44\44acbd889bb17d346f79d5a3502c6dd7
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\44\44acbd889bb17d346f79d5a3502c6dd7
+    projectPath: Library\Artifacts\44\44acbd889bb17d346f79d5a3502c6dd7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\46\4631e2e27bc4d5ad646f492b8d103fa2
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\46\4631e2e27bc4d5ad646f492b8d103fa2
+    projectPath: Library\Artifacts\46\4631e2e27bc4d5ad646f492b8d103fa2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\48\484a07cf85dab1309738669a4a9b3d32
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\48\484a07cf85dab1309738669a4a9b3d32
+    projectPath: Library\Artifacts\48\484a07cf85dab1309738669a4a9b3d32
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\51\5144f61294595bb434daf6e80fe329ec
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\51\5144f61294595bb434daf6e80fe329ec
+    projectPath: Library\Artifacts\51\5144f61294595bb434daf6e80fe329ec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\61\612ded9d4fdf6cfe319f3e72532ef8b3
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\61\612ded9d4fdf6cfe319f3e72532ef8b3
+    projectPath: Library\Artifacts\61\612ded9d4fdf6cfe319f3e72532ef8b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\78\7890f80be67c71c83d0003b3de24c71f
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\78\7890f80be67c71c83d0003b3de24c71f
+    projectPath: Library\Artifacts\78\7890f80be67c71c83d0003b3de24c71f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\82\82fab9c166d3c0cbbe48029ad4bdf817
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\82\82fab9c166d3c0cbbe48029ad4bdf817
+    projectPath: Library\Artifacts\82\82fab9c166d3c0cbbe48029ad4bdf817
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\87\87fa37b4cb6c5d6733e5107faf5d8154
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\87\87fa37b4cb6c5d6733e5107faf5d8154
+    projectPath: Library\Artifacts\87\87fa37b4cb6c5d6733e5107faf5d8154
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\93\9355583388aca518b592febac44b0dcc
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\93\9355583388aca518b592febac44b0dcc
+    projectPath: Library\Artifacts\93\9355583388aca518b592febac44b0dcc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\95\955a6821e682eebc064ab23610da5441
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\95\955a6821e682eebc064ab23610da5441
+    projectPath: Library\Artifacts\95\955a6821e682eebc064ab23610da5441
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\97\9731ce73a928c99ab4d5df05f2b8eb17
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\97\9731ce73a928c99ab4d5df05f2b8eb17
+    projectPath: Library\Artifacts\97\9731ce73a928c99ab4d5df05f2b8eb17
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\9c\9c3e3c7e5bfd7667925009d3a8c77e12
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\9c\9c3e3c7e5bfd7667925009d3a8c77e12
+    projectPath: Library\Artifacts\9c\9c3e3c7e5bfd7667925009d3a8c77e12
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\a8\a8af204b16d2fcadaa3f3fc51e9a6a09
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\a8\a8af204b16d2fcadaa3f3fc51e9a6a09
+    projectPath: Library\Artifacts\a8\a8af204b16d2fcadaa3f3fc51e9a6a09
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\ad\ad2e5783c2ec4ba5ed19bd9eb15f0d68
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\ad\ad2e5783c2ec4ba5ed19bd9eb15f0d68
+    projectPath: Library\Artifacts\ad\ad2e5783c2ec4ba5ed19bd9eb15f0d68
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\b6\b6397773e7a053d737335d3c68b0c7e3
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\b6\b6397773e7a053d737335d3c68b0c7e3
+    projectPath: Library\Artifacts\b6\b6397773e7a053d737335d3c68b0c7e3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\b6\b685c8e9c3402de10e0d95bfd9c96e35
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\b6\b685c8e9c3402de10e0d95bfd9c96e35
+    projectPath: Library\Artifacts\b6\b685c8e9c3402de10e0d95bfd9c96e35
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\b9\b987476420859625f8583d1545c23ff8
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\b9\b987476420859625f8583d1545c23ff8
+    projectPath: Library\Artifacts\b9\b987476420859625f8583d1545c23ff8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\c1\c1ff71eed0f2dda5b7996169d91ca2f0
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\c1\c1ff71eed0f2dda5b7996169d91ca2f0
+    projectPath: Library\Artifacts\c1\c1ff71eed0f2dda5b7996169d91ca2f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\c3\c3fd72c016f85286df797698ce21a41b
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\c3\c3fd72c016f85286df797698ce21a41b
+    projectPath: Library\Artifacts\c3\c3fd72c016f85286df797698ce21a41b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\ca\ca31e93251c419eb282cbed8ed4bd344
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\ca\ca31e93251c419eb282cbed8ed4bd344
+    projectPath: Library\Artifacts\ca\ca31e93251c419eb282cbed8ed4bd344
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\ca\cae9fb087033dafa91ab62913e9f8f00
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\ca\cae9fb087033dafa91ab62913e9f8f00
+    projectPath: Library\Artifacts\ca\cae9fb087033dafa91ab62913e9f8f00
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\d6\d6e72b4440238905317f082704537e36
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\d6\d6e72b4440238905317f082704537e36
+    projectPath: Library\Artifacts\d6\d6e72b4440238905317f082704537e36
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\d9\d99eaafc5d059b47b53e5367db0cbe73
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\d9\d99eaafc5d059b47b53e5367db0cbe73
+    projectPath: Library\Artifacts\d9\d99eaafc5d059b47b53e5367db0cbe73
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\e0\e08555135fb0749ff2235e2a8490be9f
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\e0\e08555135fb0749ff2235e2a8490be9f
+    projectPath: Library\Artifacts\e0\e08555135fb0749ff2235e2a8490be9f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\f1\f1db12bf6af3424466593a9b37d983d8
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\f1\f1db12bf6af3424466593a9b37d983d8
+    projectPath: Library\Artifacts\f1\f1db12bf6af3424466593a9b37d983d8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\Artifacts\f6\f6c38c7e095bed3e57ac99af21f191c9
+    fullPath: D:\Unity\VRCade\Pacman\Library\Artifacts\f6\f6c38c7e095bed3e57ac99af21f191c9
+    projectPath: Library\Artifacts\f6\f6c38c7e095bed3e57ac99af21f191c9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\EditorInstance.json
+    fullPath: D:\Unity\VRCade\Pacman\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\Unity\VRCade\Pacman\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\gfu\cache\gitlog.yaml
+    fullPath: D:\Unity\VRCade\Pacman\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\Unity\VRCade\Pacman\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\Unity\VRCade\Pacman\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\gfu\cache\gituser.yaml
+    fullPath: D:\Unity\VRCade\Pacman\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\Unity\VRCade\Pacman\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
+    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.pdb
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.pdb
+    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
+    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.pdb
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.pdb
+    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-hlapi.Runtime.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
+    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.pdb
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.pdb
+    projectPath: Library\ScriptAssemblies\com.unity.multiplayer-weaver.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\Unity.Timeline.pdb
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\Unity.Timeline.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\UnityEditor.SpatialTracking.pdb
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\UnityEditor.SpatialTracking.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.SpatialTracking.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.pdb
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\UnityEngine.SpatialTracking.pdb
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\UnityEngine.SpatialTracking.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.SpatialTracking.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.pdb
+    fullPath: D:\Unity\VRCade\Pacman\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\SourceAssetDB
+    fullPath: D:\Unity\VRCade\Pacman\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Library\StateCache\Hierarchy\97a0f9-mainStage.json
+    fullPath: D:\Unity\VRCade\Pacman\Library\StateCache\Hierarchy\97a0f9-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\97a0f9-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Temp\ProcessJobs\05c17bfe32f26d2981ce0080db12b63d.clust
+    fullPath: D:\Unity\VRCade\Pacman\Temp\ProcessJobs\05c17bfe32f26d2981ce0080db12b63d.clust
+    projectPath: Temp\ProcessJobs\05c17bfe32f26d2981ce0080db12b63d.clust
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\ProcessJobs\05c17bfe32f26d2981ce0080db12b63d.lt
+    fullPath: D:\Unity\VRCade\Pacman\Temp\ProcessJobs\05c17bfe32f26d2981ce0080db12b63d.lt
+    projectPath: Temp\ProcessJobs\05c17bfe32f26d2981ce0080db12b63d.lt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\ProcessJobs\05c17bfe32f26d2981ce0080db12b63d.vis
+    fullPath: D:\Unity\VRCade\Pacman\Temp\ProcessJobs\05c17bfe32f26d2981ce0080db12b63d.vis
+    projectPath: Temp\ProcessJobs\05c17bfe32f26d2981ce0080db12b63d.vis
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    fullPath: D:\Unity\VRCade\Pacman\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityLockfile
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Pacman\Temp\UnityTempFile-03d2fd815181da94a9897132396dfcd4
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-03d2fd815181da94a9897132396dfcd4
+    projectPath: Temp\UnityTempFile-03d2fd815181da94a9897132396dfcd4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-046e39b37b386ad4dbc848ee95071b43
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-046e39b37b386ad4dbc848ee95071b43
+    projectPath: Temp\UnityTempFile-046e39b37b386ad4dbc848ee95071b43
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-0db5d3ec8235a3d4badbb6c61f926cb5
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-0db5d3ec8235a3d4badbb6c61f926cb5
+    projectPath: Temp\UnityTempFile-0db5d3ec8235a3d4badbb6c61f926cb5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-0f886e8bb03cb9744a7e1b1071c667ba
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-0f886e8bb03cb9744a7e1b1071c667ba
+    projectPath: Temp\UnityTempFile-0f886e8bb03cb9744a7e1b1071c667ba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-1162bf83620a6974db5e91051a1f60de
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-1162bf83620a6974db5e91051a1f60de
+    projectPath: Temp\UnityTempFile-1162bf83620a6974db5e91051a1f60de
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-1263d5e04fe6b9a48bd98e1b72ff9cdc
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-1263d5e04fe6b9a48bd98e1b72ff9cdc
+    projectPath: Temp\UnityTempFile-1263d5e04fe6b9a48bd98e1b72ff9cdc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-1395d006c0387ac4e8ef0ea1419ab6d4
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-1395d006c0387ac4e8ef0ea1419ab6d4
+    projectPath: Temp\UnityTempFile-1395d006c0387ac4e8ef0ea1419ab6d4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-194afe9b233e60c49afe4d6102e7e378
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-194afe9b233e60c49afe4d6102e7e378
+    projectPath: Temp\UnityTempFile-194afe9b233e60c49afe4d6102e7e378
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-1b6754f04f237474bb9fceff4f9e6d98
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-1b6754f04f237474bb9fceff4f9e6d98
+    projectPath: Temp\UnityTempFile-1b6754f04f237474bb9fceff4f9e6d98
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-1ea82ecf3a5a2154ebc2e85cb1d0ca9a
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-1ea82ecf3a5a2154ebc2e85cb1d0ca9a
+    projectPath: Temp\UnityTempFile-1ea82ecf3a5a2154ebc2e85cb1d0ca9a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-2c3da5c769d1e2748a2fe97a1b2c0f6b
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-2c3da5c769d1e2748a2fe97a1b2c0f6b
+    projectPath: Temp\UnityTempFile-2c3da5c769d1e2748a2fe97a1b2c0f6b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-2c8c95ab003b1b54b9773a309d95db1d
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-2c8c95ab003b1b54b9773a309d95db1d
+    projectPath: Temp\UnityTempFile-2c8c95ab003b1b54b9773a309d95db1d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-30a371b53acfb2b4cb8b18591c488f58
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-30a371b53acfb2b4cb8b18591c488f58
+    projectPath: Temp\UnityTempFile-30a371b53acfb2b4cb8b18591c488f58
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-369a0392a333f98408de805b8f592d59
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-369a0392a333f98408de805b8f592d59
+    projectPath: Temp\UnityTempFile-369a0392a333f98408de805b8f592d59
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-3bc8fbe94f7cb234d8b371aad0e9dbc3
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-3bc8fbe94f7cb234d8b371aad0e9dbc3
+    projectPath: Temp\UnityTempFile-3bc8fbe94f7cb234d8b371aad0e9dbc3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-4563c3aa944833f4a9beccde25fe92e2
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-4563c3aa944833f4a9beccde25fe92e2
+    projectPath: Temp\UnityTempFile-4563c3aa944833f4a9beccde25fe92e2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-4b0d1eb39e4212f45a0379be82f0bdb0
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-4b0d1eb39e4212f45a0379be82f0bdb0
+    projectPath: Temp\UnityTempFile-4b0d1eb39e4212f45a0379be82f0bdb0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-55713acc3cb331d4ca4a412b86057b5e
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-55713acc3cb331d4ca4a412b86057b5e
+    projectPath: Temp\UnityTempFile-55713acc3cb331d4ca4a412b86057b5e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-5ab3710953bacee46b98c3973f9b55b8
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-5ab3710953bacee46b98c3973f9b55b8
+    projectPath: Temp\UnityTempFile-5ab3710953bacee46b98c3973f9b55b8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-60a63ab6bfc570044b123088e262b9ee
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-60a63ab6bfc570044b123088e262b9ee
+    projectPath: Temp\UnityTempFile-60a63ab6bfc570044b123088e262b9ee
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-6d4af7070f036cb41a83a308915e329b
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-6d4af7070f036cb41a83a308915e329b
+    projectPath: Temp\UnityTempFile-6d4af7070f036cb41a83a308915e329b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-76d613ca1d6df4e46a3f8bb85580bc97
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-76d613ca1d6df4e46a3f8bb85580bc97
+    projectPath: Temp\UnityTempFile-76d613ca1d6df4e46a3f8bb85580bc97
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-8803fffdcc5aa0747b45d8edd5d411fa
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-8803fffdcc5aa0747b45d8edd5d411fa
+    projectPath: Temp\UnityTempFile-8803fffdcc5aa0747b45d8edd5d411fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-8c64ab75a54f99148a01d767027ec9dd
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-8c64ab75a54f99148a01d767027ec9dd
+    projectPath: Temp\UnityTempFile-8c64ab75a54f99148a01d767027ec9dd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-8d254e16151810048b671f570f146a55
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-8d254e16151810048b671f570f146a55
+    projectPath: Temp\UnityTempFile-8d254e16151810048b671f570f146a55
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-8e2df630482375b47a1e8eca5c0d24f6
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-8e2df630482375b47a1e8eca5c0d24f6
+    projectPath: Temp\UnityTempFile-8e2df630482375b47a1e8eca5c0d24f6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-8f2b0aa8212495745a2c7ce51bcc8d06
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-8f2b0aa8212495745a2c7ce51bcc8d06
+    projectPath: Temp\UnityTempFile-8f2b0aa8212495745a2c7ce51bcc8d06
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-a74619e1a3ba1524f986495933255d8c
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-a74619e1a3ba1524f986495933255d8c
+    projectPath: Temp\UnityTempFile-a74619e1a3ba1524f986495933255d8c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-b5d0750ca8cbfbc4a8a5acbe5992bf7c
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-b5d0750ca8cbfbc4a8a5acbe5992bf7c
+    projectPath: Temp\UnityTempFile-b5d0750ca8cbfbc4a8a5acbe5992bf7c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-b65c39f4f829d0240b018f85e2d13fca
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-b65c39f4f829d0240b018f85e2d13fca
+    projectPath: Temp\UnityTempFile-b65c39f4f829d0240b018f85e2d13fca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-bad928af2d83b0b49bea6d57074ccac9
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-bad928af2d83b0b49bea6d57074ccac9
+    projectPath: Temp\UnityTempFile-bad928af2d83b0b49bea6d57074ccac9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-c38ade99853bc9c4b8f2250112732bda
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-c38ade99853bc9c4b8f2250112732bda
+    projectPath: Temp\UnityTempFile-c38ade99853bc9c4b8f2250112732bda
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-c67c412957b976d4b880bae685be150e
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-c67c412957b976d4b880bae685be150e
+    projectPath: Temp\UnityTempFile-c67c412957b976d4b880bae685be150e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-cf64de4bd1c88484da4bf8c9fa1461c3
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-cf64de4bd1c88484da4bf8c9fa1461c3
+    projectPath: Temp\UnityTempFile-cf64de4bd1c88484da4bf8c9fa1461c3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-daa3208ca1d41a242990d985b5d8eaf2
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-daa3208ca1d41a242990d985b5d8eaf2
+    projectPath: Temp\UnityTempFile-daa3208ca1d41a242990d985b5d8eaf2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-e2f49eb599a8c3a4b9ad271902a1c0c3
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-e2f49eb599a8c3a4b9ad271902a1c0c3
+    projectPath: Temp\UnityTempFile-e2f49eb599a8c3a4b9ad271902a1c0c3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-e353cee3a9335b248b6a0dfed8c8877b
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-e353cee3a9335b248b6a0dfed8c8877b
+    projectPath: Temp\UnityTempFile-e353cee3a9335b248b6a0dfed8c8877b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-e4d4b9e7114532b44ab064d285e81abc
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-e4d4b9e7114532b44ab064d285e81abc
+    projectPath: Temp\UnityTempFile-e4d4b9e7114532b44ab064d285e81abc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-eb3e81b901a1a1c4bbfc8ec55c0fe6e5
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-eb3e81b901a1a1c4bbfc8ec55c0fe6e5
+    projectPath: Temp\UnityTempFile-eb3e81b901a1a1c4bbfc8ec55c0fe6e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-ebdc773008537ce439c1e72419592af9
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-ebdc773008537ce439c1e72419592af9
+    projectPath: Temp\UnityTempFile-ebdc773008537ce439c1e72419592af9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-f1a5c819105e0974fa989d6af47e5701
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-f1a5c819105e0974fa989d6af47e5701
+    projectPath: Temp\UnityTempFile-f1a5c819105e0974fa989d6af47e5701
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-f6574806e0315e5488096e2f0843f18f
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-f6574806e0315e5488096e2f0843f18f
+    projectPath: Temp\UnityTempFile-f6574806e0315e5488096e2f0843f18f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-f98914763970fb24ca36f4759b9b0ff3
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-f98914763970fb24ca36f4759b9b0ff3
+    projectPath: Temp\UnityTempFile-f98914763970fb24ca36f4759b9b0ff3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-fa764255ee81b30439bdff3eebe8d617
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-fa764255ee81b30439bdff3eebe8d617
+    projectPath: Temp\UnityTempFile-fa764255ee81b30439bdff3eebe8d617
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-fc29fc79983856343a580f941fd09a27
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-fc29fc79983856343a580f941fd09a27
+    projectPath: Temp\UnityTempFile-fc29fc79983856343a580f941fd09a27
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Pacman\Temp\UnityTempFile-fd156cad85eb1424d90e2ddcb59b8cb6
+    fullPath: D:\Unity\VRCade\Pacman\Temp\UnityTempFile-fd156cad85eb1424d90e2ddcb59b8cb6
+    projectPath: Temp\UnityTempFile-fd156cad85eb1424d90e2ddcb59b8cb6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
